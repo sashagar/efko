@@ -49,3 +49,13 @@
 - Если руководитель ставит "canceled" статус, можно добавить колонку для комментария. Либо сделать список причин, объясняющих отмену отпуска.
 - по фронтовой части надо связать 2 поля наподобии, бронирования авиабилетов, чтобы даты между собой были связаны.
 - также необходимо постаивть проверки на backend части.
+
+Настройка путей:
+https://github.com/sashagar/efko/blob/develop/config/web.php
+
+Миграции:
+https://github.com/sashagar/efko/tree/develop/migrations
+
+Модели:
+https://github.com/sashagar/efko/tree/develop/models
+
